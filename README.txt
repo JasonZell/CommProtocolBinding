@@ -3,6 +3,7 @@ About compiling C++ modules to NodeJS/Electron compatible modules:
 
 Have electron 1.7.12+, and cmake-js installed
 Both can be installed using npm
+NOTE: Install cmake-js globally using: npm install -g cmake-js
 
 
 Run 'npm install'
